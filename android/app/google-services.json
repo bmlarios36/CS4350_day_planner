@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595646268075",
+    "project_id": "cs4750-schedule-app",
+    "storage_bucket": "cs4750-schedule-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595646268075:android:1d06869e2730397ac16dee",
+        "android_client_info": {
+          "package_name": "edu.cpp.cs4750BLarios.project.day_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595646268075-c2p4seco5kdt16i4ni7utrvlaidvq0q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9gPrRvSKtvWhD4lZ1IYRswcUyBvoHUmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595646268075-c2p4seco5kdt16i4ni7utrvlaidvq0q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
